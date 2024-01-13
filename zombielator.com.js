@@ -1,4 +1,10 @@
 resume()
+resume()
+resume()
+resume()
+resume()
+resume()
+play()
 (function (cjs, an) {
 
 var p; // shortcut to reference prototypes
